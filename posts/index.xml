@@ -6,10 +6,23 @@
     <description>Recent content in Posts on 张彪的小窝</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Thu, 24 Oct 2019 00:17:01 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2019 00:55:56 +0800</lastBuildDate>
     
 	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>如何用hugo搭建博客</title>
+      <link>http://example.org/posts/%E5%A6%82%E4%BD%95%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Thu, 24 Oct 2019 00:55:56 +0800</pubDate>
+      
+      <guid>http://example.org/posts/%E5%A6%82%E4%BD%95%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>怎样搭建专属于自己的博客呢？ 1.去hugo官网上下载安装包，解压，并把包含hugo.exe的文件添加到path中，重启终端，运行hugo version查看版本。
+2.进入hugo官网首页，点击quick start，完成step1到7，得到一个public目录，这就是我们的博客站点，hugo server可以预览非草稿内容哦。
+3.创建一个远程仓库Github repo，名字为【GitHub用户名.github.io】
+4.创建一个本地仓库，步骤如下： 先进入public目录，然后Git init初始化，接着ga，gc，gp三连，记得要先关联远程仓库哦。
+上传文件之后，我们的博客就创建成功啦，It’s so cool！</description>
+    </item>
     
     <item>
       <title>My First Post</title>
