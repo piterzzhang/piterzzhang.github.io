@@ -6,10 +6,47 @@
     <description>Recent content in Posts on 张彪的小窝</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Thu, 24 Oct 2019 00:55:56 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2019 21:19:17 +0800</lastBuildDate>
     
 	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Html入门笔记</title>
+      <link>http://example.org/posts/html%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Sat, 02 Nov 2019 21:19:17 +0800</pubDate>
+      
+      <guid>http://example.org/posts/html%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0/</guid>
+      <description>HTML基本标签 一、html的发明 html标准制定者是W3C，由万维网发明者Tim Berners-Lee创立
+二、html起手式 三、常用的章节标签 标题 h1~h6
+章节 section
+文章 article
+段落 p
+头部 header
+脚部 footer
+主要内容 main
+旁支内容 aside
+划分 div
+四、全局属性 class 用来对网页元素进行分类，如果不同元素的chass属性值相同，就表示他们是同一类的。
+contenteditable 使元素变得可编辑
+hidden 使元素隐藏，不可见
+id 此属性是元素在网页内的唯一标识符，网页可能包含多个标签，id属性可以指定每个标签的唯一标识符。
+style 此属性用于指定当前元素的css样式。
+tabindex 使浏览器允许使用tab键遍历网页元素。
+title 用来为元素添加附加说明
+五、内容标签 ol+li ol指的是有顺序的列表，li指的是列表中的一项
+ul+li 和上面的相反，无顺序的列表
+dl+dt+dd dl：描述列表，dt：被描述的项目，dd：描述项目的内容。
+pre 对选中部分保留换行和空格
+code：将其中的字体设置成代码样式（等宽）
+hr：加分割线
+br：换行
+a：插入链接，一般格式为：&amp;lt;a href=&amp;quot;网址&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;名称&amp;lt;/a&amp;gt;
+en 强调某一段或某一句，变为特殊字体
+strong 使其中的内容加粗
+quote 引用
+blockquote 换行引用</description>
+    </item>
     
     <item>
       <title>如何用hugo搭建博客</title>
