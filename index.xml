@@ -6,10 +6,30 @@
     <description>Recent content on 张彪的小窝</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Sat, 02 Nov 2019 21:19:17 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2020 21:12:06 +0800</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Html常用标签</title>
+      <link>http://example.org/posts/html%E5%B8%B8%E7%94%A8%E6%A0%87%E7%AD%BE/</link>
+      <pubDate>Tue, 07 Jan 2020 21:12:06 +0800</pubDate>
+      
+      <guid>http://example.org/posts/html%E5%B8%B8%E7%94%A8%E6%A0%87%E7%AD%BE/</guid>
+      <description>HTML 常用标签 一.a 标签的用法 属性： href:添加链接
+target：指定在哪个页面打开超链接
+download：下载页面
+rel=noopener
+作用：1、跳转到外部页面
+2、跳转内部锚点
+3、跳转到邮箱或者电话
+a 标签 href 的取值：
+1、网址：例如http://google.com
+2、路径
+3、伪协议：例如 JavaScript、mailto、tel
+二、table 标签 table标签用来定义 HTML 表格。 简单的 HTML 表格由 table 元素以及一个或多个 tr、th 或 td 元素组成。 tr 元素定义表格行，th 元素定义表头，td 元素定义表格单元。 table标签里面通常只有三个标签：thead、tbody、tfoot  三、image 标签 1、作用 发出get请求，展示一张图片 2、属性 alt：加载失败时，显示提示 heigh：高度 width：宽度 src：图片来源 3、事件 onload：加载成功... onerror：加载失败，提示...  四、感悟 这一节学习了 html 几种常用标签的用法，可以在 html 文件 里面插入网址、表格、图片、电子邮箱等等，使得网页的实 用性进一步加强，感觉收获满满，让我对接下面的学习充满期待，希望能早日写出漂亮实用的网页，Fighting！</description>
+    </item>
     
     <item>
       <title>Html入门笔记</title>
